@@ -1,0 +1,31 @@
+{
+  "db_file_paths": {
+    "database": "C:/kudryashov_course_work/datasets/new_data_restaurant/res_db.pkl",
+    "dict": "C:/kudryashov_course_work/datasets/new_data_restaurant/res_dict.pkl",
+    "user_goals": "C:/kudryashov_course_work/datasets/new_data_restaurant/res_user_goals.pkl"
+  },
+  "run": {
+    "usersim": true,
+    "warmup_mem": 1000,
+    "num_ep_run": 10,
+    "train_freq": 100,
+    "max_round_num": 20,
+    "success_rate_threshold": 0.3
+  },
+  "agent": {
+    "save_weights_file_path": "",
+    "load_weights_file_path": "C:/kudryashov_course_work/notebooks_and_program/dialog_run/weights/DQN/dqn_3.h5",
+    "vanilla": false,
+    "learning_rate": 1e-3,
+    "batch_size": 16,
+    "dqn_hidden_size": 80,
+    "epsilon_init": 0.0,
+    "gamma": 0.9,
+    "max_mem_size": 250000
+  },
+  "emc": {
+    "slot_error_mode": 0,
+    "slot_error_prob": 0.1,
+    "intent_error_prob": 0.0
+  }
+}

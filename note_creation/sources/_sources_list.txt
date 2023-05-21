@@ -1,0 +1,10 @@
+1) Xiujun Li, Yun-Nung Chen, Lihong Li, Jianfeng Gao, Asli Celikyilmaz: «End-to-End Task-Completion Neural Dialogue Systems». – 2018 г.
+2) Xiujun Li, Zachary C. Lipton, Bhuwan Dhingra, Lihong Li, Jianfeng Gao, Yun-Nung Chen: «A User Simulator for Task-Completion Dialogues». 2017 г.
+3) Jaromír Janisch: «Let’s make a DQN» [Электронный ресурс]. - URL: https://jaromiru.com/2016/09/27/lets-make-a-dqn-theory/ – 2016 г.
+4) И. Б. Широков, С. В. Колесова, В. А. Кучеренко, М. Ю. Серебряков: «Анализ технологий глубокого обучения с подкреплением для систем машинного зрения» // Известия ТулГУ. – 2022 г. – С. 118–120.
+5) Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, Marc G. Bellemare, Alex Graves, Martin Riedmiller, Andreas K. Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, Demis Hassabis: «Human-level control through deep reinforcement learning» // NATURE. – 2015 г.
+6) Max Brenner: «Training a Goal-Oriented Chatbot with Deep Reinforcement Learning» // Towards Data Science. – 2018 г.
+7) Hado van Hasselt, Arthur Guez, David Silver: «Deep Reinforcement Learning with Double Q-learning» // Google DeepMind. – 2015 г.
+8) Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller. – «Playing Atari with Deep Reinforcement Learning» // DeepMind Technologies. – 2013 г.
+9) Chris Yoon: «Double Deep Q Networks» // Towards Data Science. – 2019 г.
+10) Christopher Watkins: «Learning from delayed rewards». – 1989 г.
